@@ -25,7 +25,6 @@ function paintToDo(newToDo) {
   const button = document.createElement("button");
   button.innerText = `삭제`
   
-   
   li.appendChild(span);
   li.appendChild(button);
   toDoList.appendChild(li);
