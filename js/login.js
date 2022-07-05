@@ -25,7 +25,6 @@ function logIn(e) {
 
 
 function paintGreetings(username) {
-  const date = new Date();
   let mention = `사용자 `;
   span.innerText = `${mention}: ${username}`;
   greeting.classList.remove("hidden");
