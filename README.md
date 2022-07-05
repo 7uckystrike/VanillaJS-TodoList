@@ -1,2 +1,7 @@
 # todoList
-간단한 투두리스트
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Git page</li>
+</ul>
