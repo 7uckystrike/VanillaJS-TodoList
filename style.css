@@ -24,15 +24,17 @@ ul, li {
   margin-bottom: 15px;
 }
 
-.hidden{
-  display: none;
-}
-
 button {
   background-color:transparent;
   font-size: 8px;
   font-weight: 700;
 }
+
+
+.hidden{
+  display: none;
+}
+
 
 @media screen and (max-width: 768px) {
   input {
@@ -113,6 +115,7 @@ button {
     height: 12px;
   }
 }
+
 
 /* 로그인 화면 */
 #login {
