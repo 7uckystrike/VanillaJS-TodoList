@@ -13,4 +13,5 @@ https://7uckystrike.github.io/VanillaJS-TodoList/
 <br />
 
 ### Preview
-![반응형](https://user-images.githubusercontent.com/100673856/177590786-5ccbab0c-04ec-47df-a2cf-86b44dd22f9f.gif)
+<img src="https://github.com/7uckystrike/vanillaJS-TodoList/blob/main/preview/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true">
+<img src="https://github.com/7uckystrike/vanillaJS-TodoList/blob/main/preview/%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%BC.gif?raw=true">
