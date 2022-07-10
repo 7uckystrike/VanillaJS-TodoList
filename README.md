@@ -3,7 +3,7 @@
 <br />
 
 ### Demo
-https://7uckystrike.github.io/VanillaJS-TodoList/
+https://7uckystrike.github.io/vanillaJS-TodoList/
 
 <br />
 
