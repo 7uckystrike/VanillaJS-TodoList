@@ -8,7 +8,7 @@ https://7uckystrike.github.io/vanillaJS-TodoList/
 <br />
 
 ### History
-https://gold-carrot.tistory.com/8
+🚜 <a href="https://jyounge.notion.site/todo-list-f39eab10d6394719be651df65afb6368">작업일지</a>
 
 <br />
 
